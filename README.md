@@ -1,2 +1,16 @@
 # Merging-With-Pandas
-Practicing different Merging Techniques in Pandas  
+
+**Practicing different Merging Techniques in Pandas**
+
+## Overview
+
+**Learning how to merge multiple data frames together is an essentail skill to have in the data programming world.** 
+
+## Results 
+
+### Left_merge
+
+**Using the left_merge in the data frames "user_usage" and "user-device" we can merge both data frames on the `how="left"` method**
+
+
+
