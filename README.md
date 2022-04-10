@@ -26,6 +26,12 @@
 
 <img src= "img/left-merge-tail.png" > <img src= "img/right-merge-tail.png" >
 
+## Inner_merge 
+
+**The Inner_merge method is the default method the used in Pandas by default. The Inner_method only keeps the common values in both the left and right dataframes for the merged data. In this case only the rows that contain `use_id` values are the common between `user_usage` and `user_device` remain in the merged data.
+
+<img src= "img/Inner_merge.png" >
+
 
 
 
